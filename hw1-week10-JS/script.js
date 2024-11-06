@@ -1,5 +1,5 @@
 //1
-let age = 65;
+let age = 70;
 let isStudent = false
 
 console.log(age > 65 || isStudent);
